@@ -1,0 +1,9 @@
+br\com\fiap\winery\consumer\GetMenu.class
+br\com\fiap\winery\consumer\GetMenuResponse.class
+br\com\fiap\winery\consumer\ObjectFactory.class
+com\example\WineStockClient\WineStockClientApplication.class
+br\com\fiap\winery\consumer\PlaceOrderResponse.class
+br\com\fiap\winery\consumer\WineStockService.class
+br\com\fiap\winery\consumer\WineStockServiceImplementationService.class
+br\com\fiap\winery\consumer\package-info.class
+br\com\fiap\winery\consumer\PlaceOrder.class
